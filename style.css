@@ -6,7 +6,7 @@
 }
 
 body {
-    background: rgba(0, 0, 0, 0.5) url('../source/images/background1.jpg');
+    background: rgba(0, 0, 0, 0.5) url('./background1.jpg');
     background-position:center top;
     background-repeat: no-repeat;
     background-size: cover;
